@@ -1,0 +1,169 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8bbd0;
+    color: #000;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #d81b60;
+    padding: 20px;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+nav {
+    background-color: #f06292;
+    padding: 10px;
+}
+nav a {
+    margin: 15px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+footer {
+    background-color: #d81b60;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
+button {
+    background-color: #d81b60;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+    color: #ff4081;
+}
+
+.motivacion {
+    font-size: 1.5rem;
+    font-style: italic;
+    color: #555;
+    font-family: 'Georgia', serif;
+}
+/* Estilo para botones y select en color rosado */
+.btn-rosa {
+    background-color: #ff4081;
+    color: white;
+    border: none;
+}
+
+.btn-rosa:hover {
+    background-color: #e91e63;
+}
+
+.rosa {
+    border-color: #ff4081;
+}
+
+.rosa:focus {
+    border-color: #e91e63;
+    box-shadow: 0 0 5px #ff4081;
+}
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo para botones en color rosa */
+.btn-rosa {
+    background-color: #ff4081;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 18px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.btn-rosa:hover {
+    background-color: #e91e63;
+}
+
+/* Estilo para los inputs y selects en color rosa */
+.rosa {
+    border: 2px solid #ff4081 !important;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.rosa:focus {
+    border-color: #e91e63 !important;
+    box-shadow: 0 0 8px #ff80ab;
+}
+/* Estilo para el botón rosa */
+.btn-rosa {
+    background-color: #ff69b4; /* Rosa fuerte */
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.btn-rosa:hover {
+    background-color: #ff1493; /* Rosa más oscuro al pasar el mouse */
+}
+
+/* Estilo para los desplegables rosas */
+.rosa {
+    background-color: #ffe4e1; /* Rosa claro */
+    border: 1px solid #ff69b4; /* Borde rosa */
+    color: #d63384;
+}
+
+.rosa:focus {
+    border-color: #ff1493;
+    box-shadow: 0 0 5px rgba(255, 20, 147, 0.5);
+}
+header {
+    text-align: center;
+    font-family: "Georgia", serif; /* Fuente más seria */
+    font-size: 2rem; /* Ajusta el tamaño si es necesario */
+    font-weight: bold;
+    margin-top: 20px;
+}
+nav {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333; /* Puedes cambiar el color */
+    margin: 0 15px;
+    font-family: "Georgia", serif;
+}
+
+h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.8rem;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    color: #555; /* Un gris suave para que no resalte demasiado */
+    opacity: 0.8; /* Hace que el texto sea más sutil */
+}
+
